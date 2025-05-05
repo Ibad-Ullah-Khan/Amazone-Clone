@@ -24,7 +24,7 @@
 }
 
 .logo{
-    background-image: url("amazon_logo.png");
+    background-image: url("./Images-use/amazon_logo.png");
     background-size: cover;
     height: 50px;
     width: 114px;
@@ -127,7 +127,7 @@
 .country-flag{
     height: 17px;
     width: 22px;
-    background-image:url("American\ flag.jpeg");
+    background-image:url("Images-use/American\ flag.jpeg");
     background-size: cover;
 }
 
@@ -231,7 +231,7 @@
 /*Hero Section*/
 
 .hero-section{
-    background-image: url("hero_image.jpg");
+    background-image: url("Images-use/hero_image.jpg");
     height: 350px;
     background-size: cover;
     display: flex;
